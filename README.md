@@ -10,7 +10,7 @@ A workout tracker for Android that works with no signal. Your data stays on your
 [![Downloads](https://img.shields.io/github/downloads/AdrielTTE/crest/total?style=flat-square&color=2f6f5e)](../../releases)
 ![Android](https://img.shields.io/badge/Android-7.0%2B-2f6f5e?style=flat-square)
 
-[**Download the APK**](../../releases/latest) · [Case study](https://portfolio-lemon-sigma-58.vercel.app/work/crest) · [Privacy](https://adrieltte.github.io/crest-privacy/)
+[**Download the APK**](../../releases/latest) · [Case study](https://appliedtheory.vercel.app/work/crest) · [Privacy](https://adrieltte.github.io/crest-privacy/)
 
 <br>
 
@@ -57,4 +57,4 @@ Crest collects nothing. Your data stays on your device unless you turn on Google
 
 Found a bug or want something added? [Open an issue](../../issues).
 
-<sub>Built by [Adriel Tang](https://portfolio-lemon-sigma-58.vercel.app/) with Flutter.</sub>
+<sub>Built by [Adriel Tang](https://appliedtheory.vercel.app/) with Flutter.</sub>
